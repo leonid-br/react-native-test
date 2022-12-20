@@ -1,0 +1,10 @@
+.text {
+    font-size: 25px;
+}
+
+.boxText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
